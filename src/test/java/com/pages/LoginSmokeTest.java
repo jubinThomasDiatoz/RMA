@@ -28,7 +28,7 @@ public class LoginSmokeTest {
 
 	WebDriver driver;
 
-	String baseUrl = "https://solu-m.flowworktest.ai/return-management";
+	String baseUrl = "https://solu-m.flowwork.ai/return-management";
 
 	@BeforeMethod
 	public void setup() {
